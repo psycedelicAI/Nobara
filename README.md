@@ -282,8 +282,8 @@ Because they're broken. We tried:
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/nobara-nvidia-fix/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/nobara-nvidia-fix/discussions)
+- **Issues**: [GitHub Issues](https://github.com/psycedelicAI/nobara-nvidia-fix/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/psycedelicAI/nobara-nvidia-fix/discussions)
 - **Nobara Discord**: Share this fix with others!
 
 ---
